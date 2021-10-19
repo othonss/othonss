@@ -14,7 +14,7 @@
 <br>
 
 <p>
-  Alguns trabalhos, projetos realizados em cursos online e na faculdade, incluindo meu próprio portfolio, estão disponíveis aqui no GitHub. <br><br>
+  Alguns trabalhos, projetos realizados em cursos online e na faculdade, incluindo meu próprio site portfólio, estão disponíveis aqui no GitHub. <br><br>
   Novamente seja muito bem vindo e obrigado!
 </p>
 

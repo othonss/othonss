@@ -21,7 +21,7 @@
 
 <p>
   Alguns trabalhos, projetos realizados em cursos online e na faculdade, incluindo meu próprio site portfólio, estão disponíveis aqui. <br><br>
-  Novamente seja muito bem vindo e obrigado!
+  Seja muito bem vindo e obrigado!
 </p>
 
 ### Redes socias:

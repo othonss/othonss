@@ -1,7 +1,7 @@
-## Olá, bem vindo ao meu perfil!
+## Olá!
 
 <p>
-  Me chamo Othon e atualmente sou um estudante do curso de Ciência da computação com o objetivo de me tornar um desenvolvedor web, estudando as tecnologias: 
+  Me chamo Othon e atualmente estou cursando Ciência da computação com o objetivo de me tornar um desenvolvedor web. 
 </p>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
 <br>
 
 <p>
-  Alguns trabalhos, projetos realizados em cursos online e na faculdade, incluindo meu próprio site portfólio, estão disponíveis aqui no GitHub. <br><br>
+  Alguns trabalhos, projetos realizados em cursos online e na faculdade, incluindo meu próprio site portfólio, estão disponíveis aqui. <br><br>
   Novamente seja muito bem vindo e obrigado!
 </p>
 
